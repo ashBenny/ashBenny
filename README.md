@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashbenny&label=Profile%20views&color=0e75b6&style=flat" alt="ashbenny" /> </p>
 
-- 🔭 I’m currently working at **NewAgeSys Solutions (P) Ltd, Kochin, Kerala**
+- 🔭 I formally worked at **NewAgeSys Solutions (P) Ltd, Kochin, Kerala**
 
 <!-- - 🌱 I’m currently learning **type Script, Angular Js, Adobe Illustrator** -->
 
