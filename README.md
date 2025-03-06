@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashbenny&label=Profile%20views&color=0e75b6&style=flat" alt="ashbenny" /> </p>
 
-- 🔭 I formally worked at **NewAgeSys Solutions (P) Ltd, Kochin, Kerala**
+- 🔭 I formally worked at **NewAgeSys Solutions (P) Ltd, India**
+
+- 🔭 I was a Graphic Designer at **I Systems,Impressive Systems"", India**
 
 <!-- - 🌱 I’m currently learning **type Script, Angular Js, Adobe Illustrator** -->
 
-- 👨‍💻 All of my projects are available at [here in my Github](here in my Github)
-
-- 💬 Ask me about **HTML,CSS,JavaScript,NodeJs,Express Js,React Js,Angular Js, Next Js,MongoD,SQL,Photoshop & Corel Draw**
+- - 💬 Ask me about **HTML,Css,Scss,JavaScript,Tailwind Css,Bootstrap,Angular,React,NextJs,NodeJs,NestJs,MySql,MongoDB,Canva,CorelDraw**
 
 - 📫 How to reach me **ashikmben@gmail.com**
 
-- 📄 Know about my experiences [https://ashbenny.github.io/portfolio/](https://ashbenny.github.io/portfolio/)
-
-- ⚡ Fun fact **I think I am Aggressive**
+- 📄 Know about my experiences [https://ash-portfolio-snowy.vercel.app/](https://ash-portfolio-snowy.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
