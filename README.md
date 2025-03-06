@@ -5,7 +5,7 @@
 
 - 🔭 I formally worked at **NewAgeSys Solutions (P) Ltd, India**
 
-- 🔭 I was a Graphic Designer at **I Systems,Impressive Systems"", India**
+- 🔭 I was a Graphic Designer at **I Systems & Impressive Systems, India**
 
 <!-- - 🌱 I’m currently learning **type Script, Angular Js, Adobe Illustrator** -->
 
