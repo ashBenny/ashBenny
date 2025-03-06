@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **type Script, Angular Js, Adobe Illustrator** -->
 
-- - 💬 Ask me about **HTML,Css,Scss,JavaScript,Tailwind Css,Bootstrap,Angular,React,NextJs,NodeJs,NestJs,MySql,MongoDB,Canva,CorelDraw**
+- 💬 Ask me about **HTML,Css,Scss,JavaScript,Tailwind Css,Bootstrap,Angular,React,NextJs,NodeJs,NestJs,MySql,MongoDB,Canva,CorelDraw**
 
 - 📫 How to reach me **ashikmben@gmail.com**
 
